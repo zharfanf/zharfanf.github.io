@@ -21,7 +21,7 @@ repository               : "zharfanf/zharfanf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/fai.png"
+  avatar           : "fai.png"
   name             : "Faishal Zharfan"
   pronouns         : "he/him"  
   bio              : "Telecommunication Engineering Fresh Graduate"
