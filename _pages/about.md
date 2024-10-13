@@ -14,9 +14,7 @@ His research interests span Networked <b>Systems</b>, Computer <b>Networks</b>, 
 Publications
 ======
 
-- Yuyang Huang, **Faishal Zharfan**, Hendrawan, Haryadi S. Gunawi and
-  Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for
-  Video Analytics Applications in Edge Network.* **IEEE EDGE '24**
+- Yuyang Huang, **Faishal Zharfan**, Hendrawan, Haryadi S. Gunawi and Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for Video Analytics Applications in Edge Network.* **IEEE EDGE '24**
 - Rahmat Mulyawan, **Faishal Zharfan**, Muhamad Rizki Nur Rahman, Infall Syafalni, Nana Sutisna, and Trio Adiono, *Modelling of Wireless OFDM System with Deep Learning-based Modulation Detection* **ISESD '22**
 <!-- 2022 International Symposium on Electronics and Smart Devices (ISESD) -->
 
