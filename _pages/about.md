@@ -16,5 +16,7 @@ Publications
 
 - Yuyang Huang, **Faishal Zharfan**, Hendrawan, Haryadi S. Gunawi and Junchen Jiang, *Concierge: Towards Accuracy-Driven Bandwidth Allocation for Video Analytics Applications in Edge Network.* **IEEE EDGE '24**
 - Rahmat Mulyawan, **Faishal Zharfan**, Muhamad Rizki Nur Rahman, Infall Syafalni, Nana Sutisna, and Trio Adiono, *Modelling of Wireless OFDM System with Deep Learning-based Modulation Detection* **ISESD '22**
+- **Faishal Zharfan**, Larastya Devindira Hasnaa, Ridha Muldina Negara, and Nana Rachmana Syambas *Comparison of Caching Replacement Policies in Changing the Number of Interest Packets on Named Data Networks Using Mininet-NDN* **TSSA '21**
+<!-- The 15th International Conference on Telecommunication Systems, Services, and Applications (TSSA) -->
 <!-- 2022 International Symposium on Electronics and Smart Devices (ISESD) -->
 
