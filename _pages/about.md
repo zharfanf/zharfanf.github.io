@@ -11,6 +11,9 @@ redirect_from:
 His research interests span Networked **Systems**, Computer **Networks**, Systems for **ML**, **Multimedia** Systems, **Edge** Computing and **Wireless** Systems. He believes these topics will play an important role in the future. Also, He wants to be an innovator in this fast-paced change and modern world; an era in which disruptive technologies rewrite history.
 <br>
 
+## Update
+**I'm applying for a PhD in Systems, please reach me out if you're interested!**
+
 Publications
 ======
 
