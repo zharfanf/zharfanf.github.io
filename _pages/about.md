@@ -12,7 +12,7 @@ His research interests span Networked **Systems**, Computer **Networks**, System
 
 ## Update
 
-**I'm applying for a PhD in Systems, please reach me out if you're interested!**
+**I'm applying for PhD in Systems, please reach me out if you're interested!**
 
 Publications
 ======
