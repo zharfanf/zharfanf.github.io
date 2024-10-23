@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Faishal Zharfan's Personal Homepage"
+title                    : "Faishal Zharfan"
 title_separator          : "-"
 name                     : &name "Faishal Zharfan"
 description              : &description "Telecommunication Engineering Fresh Graduate"
