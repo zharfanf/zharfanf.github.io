@@ -27,7 +27,7 @@ Teaching
 ======
 
 ### Teaching Assistant
-- **ET4047** - Artificial Inteligence \& Big Data Analysis for Telecommunication
+- **ET4047** - Artificial Inteligence & Big Data Analysis for Telecommunication
 - **ET2107** - Programming
 
 ### Lab. Coordinator Assistant
