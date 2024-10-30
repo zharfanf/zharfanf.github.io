@@ -23,3 +23,11 @@ Publications
 <!-- The 15th International Conference on Telecommunication Systems, Services, and Applications (TSSA) -->
 <!-- 2022 International Symposium on Electronics and Smart Devices (ISESD) -->
 
+Teaching
+======
+
+- **ET4047**: Artificial Inteligence \& Big Data Analysis for Telecommunication
+- **ET2107**: Programming
+- **ET2214**: Telecommunication Laboratory Works IIB (Computer Networks I)
+- **ET2111**: Telecommunication Laboratory Works I (Digital System Design)
+
