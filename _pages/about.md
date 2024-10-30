@@ -26,8 +26,11 @@ Publications
 Teaching
 ======
 
-- **ET4047**: Artificial Inteligence \& Big Data Analysis for Telecommunication
-- **ET2107**: Programming
-- **ET2214**: Telecommunication Laboratory Works IIB (Computer Networks I)
-- **ET2111**: Telecommunication Laboratory Works I (Digital System Design)
+### Teaching Assistant
+- **ET4047** - Artificial Inteligence \& Big Data Analysis for Telecommunication
+- **ET2107** - Programming
+
+### Lab. Coordinator Assistant
+- **ET2214** - Telecommunication Laboratory Works IIB (Computer Networks I)
+- **ET2111** - Telecommunication Laboratory Works I (Digital System Design)
 
