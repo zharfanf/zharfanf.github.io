@@ -10,9 +10,9 @@ redirect_from:
 **Faishal** is a fresh graduate majoring in <a href="https://stei.itb.ac.id/en/undergraduate-programs/bachelor-telecommunication/" target="_blank"><span style="color: #613e1f;">Telecommunication Engineering</span></a> at Bandung Institute of Technology (ITB).
 His research interests span **Edge** Computing, {Networked, Multimedia, Wireless, Mobile} **Systems**, Systems-for-**ML**, and **Quantum** Communication. He believes these topics will play an important role in the future. Also, He wants to be an innovator in this fast-paced change and modern world; an era in which disruptive technologies rewrite history.
 
-## Update
+## News
 
-**I'm applying for PhD in Systems, please reach me out if you're interested!**
+- I will be doing my PhD at UMN Twin Cities this fall
 
 Publications
 ======
