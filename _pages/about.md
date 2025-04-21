@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Faishal** is a fresh graduate majoring in <a href="https://stei.itb.ac.id/en/undergraduate-programs/bachelor-telecommunication/" target="_blank"><span style="color: #613e1f;">Telecommunication Engineering</span></a> at Bandung Institute of Technology (ITB).
-His research interests span **Edge** Computing, {Networked, Multimedia, Wireless, Mobile} **Systems**, Systems-for-**ML**, and **Quantum** Communication. He believes these topics will play an important role in the future. Also, He wants to be an innovator in this fast-paced change and modern world; an era in which disruptive technologies rewrite history.
+<!-- **Faishal** is a fresh graduate majoring in <a href="https://stei.itb.ac.id/en/undergraduate-programs/bachelor-telecommunication/" target="_blank"><span style="color: #613e1f;">Telecommunication Engineering</span></a> at Bandung Institute of Technology (ITB).
+His research interests span **Edge** Computing, {Networked, Multimedia, Wireless, Mobile} **Systems**, Systems-for-**ML**, and **Quantum** Communication. He believes these topics will play an important role in the future. Also, He wants to be an innovator in this fast-paced change and modern world; an era in which disruptive technologies rewrite history. -->
+
+I'm an incoming CS PhD student at University of Minnesota-Twin Cities (UMNTC), advised by Prof. Abhishek Chandra. My research interest includes Operating & Distributed Systems, Computer Networks, Edge Computing, and Video Analytics. I earned my B.S. at Bandung Insitute of Technology (ITB), advised by Prof. Hendrawan. During my bachelor's I collaborated with Prof. Junchen Jiang and Prof. Haryadi Gunawi of the University of Chicago in a Video Analytics Research.
 
 News
 ======
