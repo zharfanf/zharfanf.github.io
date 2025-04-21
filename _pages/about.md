@@ -10,7 +10,7 @@ redirect_from:
 <!-- **Faishal** is a fresh graduate majoring in <a href="https://stei.itb.ac.id/en/undergraduate-programs/bachelor-telecommunication/" target="_blank"><span style="color: #613e1f;">Telecommunication Engineering</span></a> at Bandung Institute of Technology (ITB).
 His research interests span **Edge** Computing, {Networked, Multimedia, Wireless, Mobile} **Systems**, Systems-for-**ML**, and **Quantum** Communication. He believes these topics will play an important role in the future. Also, He wants to be an innovator in this fast-paced change and modern world; an era in which disruptive technologies rewrite history. -->
 
-I'm an incoming CS PhD student at University of Minnesota-Twin Cities (UMNTC), advised by Prof. Abhishek Chandra. My research interest includes Operating & Distributed Systems, Computer Networks, Edge Computing, and Video Analytics. I earned my B.S. at Bandung Insitute of Technology (ITB), advised by Prof. Hendrawan. During my bachelor's I collaborated with Prof. Junchen Jiang and Prof. Haryadi Gunawi of the University of Chicago in a Video Analytics Research.
+I'm an incoming CS PhD student at University of Minnesota-Twin Cities (UMNTC), advised by Prof. Abhishek Chandra. My research interest includes Operating & Distributed **Systems**, Computer **Networks**, **Edge** Computing, and **Video** Analytics. I earned my B.S. at Bandung Insitute of Technology (ITB), advised by Prof. Hendrawan. During my undegraduate, I collaborated with Prof. Junchen Jiang and Prof. Haryadi Gunawi of the University of Chicago on a Video Analytics Research.
 
 News
 ======
@@ -39,4 +39,4 @@ Teaching
 
 
 <!-- <a href="https://clustrmaps.com/site/1c5hw"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=M1X1jrhar6WHXRNpqRlMLSqio8wbg_AXtV1j6k7uZNc&cl=ffffff" /></a> -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M1X1jrhar6WHXRNpqRlMLSqio8wbg_AXtV1j6k7uZNc&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M1X1jrhar6WHXRNpqRlMLSqio8wbg_AXtV1j6k7uZNc&cl=ffffff&w=a" width="100px" height="100px"></script>
