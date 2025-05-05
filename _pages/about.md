@@ -15,7 +15,7 @@ I'm an incoming CS PhD student at University of Minnesota-Twin Cities (UMNTC), a
 News
 ======
 
-- **April 2025:** I will be doing my PhD in Computer Science at UMN Twin Cities this fall 🎉🎉🎉
+- **Apr. 2025:** I will be doing my PhD in Computer Science at UMN Twin Cities this fall 🎉🎉🎉
 
 Publications
 ======
