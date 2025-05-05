@@ -16,6 +16,7 @@ News
 ======
 
 - **Apr. 2025:** I will be doing my PhD in Computer Science at UMN Twin Cities this fall 🎉🎉🎉
+- **Oct. 2024:** I'm applying for a PhD in Computer Science (Systems), reach me out if you're interested.
 
 Publications
 ======
