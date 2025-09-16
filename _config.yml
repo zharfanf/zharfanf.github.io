@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Faishal Zharfan"
 title_separator          : "-"
 name                     : &name "Faishal Zharfan"
-description              : &description "Incoming CS PhD Student at UMN Twin Cities"
+description              : &description "CS PhD Student at UMN Twin Cities"
 # description              : &description "Telecommunication Engineering Fresh Graduate"
 url                      : https://zharfanf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   avatar           : "fai.png"
   name             : "Faishal Zharfan"
   pronouns         : "he/him"  
-  bio              : "Incoming CS PhD Student at UMN Twin Cities"
+  bio              : "CS PhD Student at UMN Twin Cities"
   # bio              : "Telecommunication Engineering Fresh Graduate"
-  location         : "Jakarta, Indonesia"
+  location         : "Minneapolis, MN"
   employer         : "University of Minnesota"
   uri              : # URL
-  email            : "zharfanf@gmail.com" 
+  email            : "zharf001@umn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
