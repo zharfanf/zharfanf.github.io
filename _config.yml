@@ -27,7 +27,8 @@ author:
   pronouns         : "he/him"  
   bio              : "CS PhD Student at UMN Twin Cities"
   # bio              : "Telecommunication Engineering Fresh Graduate"
-  location         : "Minneapolis, MN"
+  # location         : "Minneapolis, MN"
+  location         : "Keller Hall 4-204A"
   employer         : "University of Minnesota"
   uri              : # URL
   email            : "zharf001@umn.edu" 
