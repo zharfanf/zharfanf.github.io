@@ -36,8 +36,8 @@ Teaching
 - **CSCI3061** - Intro to Computer Systems (Spring 2026)
 - **CSCI4131** - Internet Programming (Spring 2026)
 - **CSCI2021** - Machine Architecture & Organizations (Fall 2025)
-- **ET4047** - Artificial Inteligence & Big Data Analysis for Telecommunication
-- **ET2107** - Programming
+- **ET4047** - Artificial Inteligence & Big Data Analysis for Telecommunication (Fall 2023)
+- **ET2107** - Programming (Fall 2021)
 
 ### Lab. Coordinator Assistant
 - **ET2214** - Telecommunication Laboratory Works IIB (Computer Networks I)
