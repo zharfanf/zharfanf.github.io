@@ -31,17 +31,20 @@ Publications
 Teaching
 ======
 
-### Teaching Assistant
+<!-- ### Teaching Assistant -->
 
+### @ UMN:
 - **CSCI3061** - Intro to Computer Systems (Spring 2026)
 - **CSCI4131** - Internet Programming (Spring 2026)
 - **CSCI2021** - Machine Architecture & Organizations (Fall 2025)
+
+### @ ITB:
 - **ET4047** - Artificial Inteligence & Big Data Analysis for Telecommunication (Fall 2023)
 - **ET2107** - Programming (Fall 2021)
 
-### Lab. Coordinator Assistant
+<!-- ### Lab. Coordinator Assistant
 - **ET2214** - Telecommunication Laboratory Works IIB (Computer Networks I)
-- **ET2111** - Telecommunication Laboratory Works I (Digital System Design)
+- **ET2111** - Telecommunication Laboratory Works I (Digital System Design) -->
 
 
 <!-- <a href="https://clustrmaps.com/site/1c5hw"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=M1X1jrhar6WHXRNpqRlMLSqio8wbg_AXtV1j6k7uZNc&cl=ffffff" /></a> -->
